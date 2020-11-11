@@ -1,0 +1,40 @@
+.paratag{
+    background-color: #7AC5CD;
+    border: darkblue solid 2px;
+    border-radius: 5px;
+    /* position: absolute; */
+    text-align: center;
+    padding: 7px;
+    margin: 10px auto;
+}
+
+h1{
+    color: cornflowerblue;
+    text-align: center;
+}
+
+.sub{
+    background: yellow;
+    border: solid black 2px;
+    height: 30px;
+    width: 70px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.container{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+
+body{
+    background-color: black;
+    font-family: 'Roboto Slab', serif;
+}
+
+.texting{
+    background-color: #7AC5CD;
+    border: black solid 2px;
+    border-radius: 4px;
+}
